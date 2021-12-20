@@ -1,0 +1,254 @@
+.logo-docplanner {
+  width: 260px;
+  height: 33px;
+}
+.head img {
+  display: block;
+  margin: 0px auto;
+}
+#AboutUs {
+  color: #00b39b;
+}
+.head {
+  display: block;
+  margin: 0%;
+  justify-content: center;
+}
+header nav {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+}
+header ul {
+  display: flex;
+  width: 19%;
+  list-style: none;
+  justify-content: space-around;
+}
+header a {
+  text-decoration: none;
+  color: gray;
+}
+.col {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.col p {
+  width: 25%;
+  text-align: center;
+  line-height: 1, 75;
+  font-weight: 400;
+  margin: 0, 8em;
+}
+.head h1 {
+  color: #00b39b;
+  margin: 1em;
+  font-weight: 300;
+  letter-spacing: 3px;
+  text-align: center;
+}
+.Forpatients {
+  background-color: #00ccb1;
+  height: 300px;
+  border-radius: 10px;
+  color: whitesmoke;
+  padding-left: 10px;
+  margin: 0px;
+  width: 260px;
+  text-align: center;
+  line-height: 3;
+  font-size: 1, 5em;
+  font-weight: 300;
+  line-height: 1, 2;
+}
+.Forpatients select {
+  margin-top: 150px;
+  margin-right: 150px;
+  background-color: #00ccb1;
+  list-style: none;
+  color: whitesmoke;
+  border: none;
+}
+.Forpatients option {
+  background-color: white;
+  color: black;
+}
+
+.Fordoctors {
+  background-color: #3d83df;
+  width: auto;
+  height: 300px;
+  border-radius: 10px;
+  margin: 5px;
+  color: white;
+  width: 260px;
+  padding-left: 10px;
+}
+.Fordoctors select {
+  margin-top: 150px;
+  margin-right: 150px;
+  background-color: #3d83df;
+  list-style: none;
+  color: white;
+  border: none;
+}
+.Fordoctors option {
+  background-color: white;
+  color: black;
+}
+.Forclinics {
+  background: #747474;
+  width: auto;
+  height: 300px;
+  border-radius: 10px;
+  margin: 10px;
+  color: white;
+  width: 260px;
+  padding-left: 10px;
+}
+.Forclinics select {
+  margin-top: 0px;
+  margin-right: 10px;
+  background-color: #747474;
+  list-style: none;
+  color: white;
+  border: none;
+}
+.Forclinics option {
+  background-color: white;
+  color: black;
+}
+.items {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  align-items: center;
+  height: 345px;
+  border-radius: 10px;
+  width: 80%;
+}
+#Culture {
+  padding-top: 100px;
+  display: flex;
+  width: 80%;
+  margin-bottom: 150px;
+  margin-left: 100px;
+}
+#Culture ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  width: 80%;
+}
+#Culture h1 {
+  color: #00b39b;
+  margin: 50px;
+}
+.selectclinics {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 144px;
+}
+.stats {
+  background-color: #e5faf8;
+  height: 700px;
+  display: flex;
+}
+.boxes div {
+  background-color: whitesmoke;
+  margin: 10px;
+  border-radius: 10px;
+  width: 216px;
+  height: 295px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.boxes img {
+  width: 25px;
+  height: 33px;
+}
+.boxes {
+  display: flex;
+  flex-wrap: wrap;
+  width: 60%;
+  margin-right: 15%;
+  margin: 0px auto;
+  font-weight: 300;
+  letter-spacing: 3px;
+}
+.lol {
+  margin-left: 15%;
+  margin-top: 15px;
+}
+.lol h1 {
+  color: #00b39b;
+  margin-top: 100px;
+}
+.cities {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  margin-top: 100px;
+  justify-content: center;
+}
+.cities h1 {
+  align-items: center;
+}
+.cities figure {
+  border: 1px solid rgb(219, 209, 209);
+  border-radius: 10px;
+}
+.cities img {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.cities a {
+  text-decoration: none;
+}
+.btn {
+  display: flex;
+  justify-content: space-evenly;
+}
+.btn button {
+  width: 114px;
+  height: 27px;
+  margin-top: 15px;
+  color: white;
+  background-color: #3d83df;
+  border-radius: 5px;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 700;
+  border: #3d83df;
+}
+.Joinus {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.Joinus button {
+  color: white;
+  background-color: #3d83df;
+  border-radius: 10px;
+  width: 258px;
+  height: 40px;
+  border: #3d83df;
+  font-size: 12px;
+  font-weight: 700;
+  margin-top: 20px;
+}
+footer {
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 50px;
+  border-top: 1px solid #eef2f2;
+  font-size: 12px;
+}
+footer a {
+  text-decoration: none;
+  color: #3d83df;
+}
